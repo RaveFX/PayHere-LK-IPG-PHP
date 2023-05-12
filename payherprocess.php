@@ -1,9 +1,9 @@
 <?php
 
 $amount= 3000;
-$merchant_id = "1223171";
+$merchant_id = "12xxxxxx";
 $order_id = uniqid();
-$merchant_secret="MzIzNTQyMzEwNjI1MTE0NjI4MjkyMTExMjk0Njk4MTQ0MTcxNDA4Mw==";
+$merchant_secret="enteryoursecrethere";
 $currency = "LKR";
 
 
